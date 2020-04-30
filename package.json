@@ -27,7 +27,7 @@
     "bootstrap4-fs-modal": "^0.1.5",
     "core-js": "^2.5.4",
     "disintegrate": "^1.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-markdown": "^8.1.0",
     "prismjs": "^1.15.0",
     "rxjs": "~6.3.3",
