@@ -29,7 +29,7 @@
     "disintegrate": "^1.0.1",
     "jquery": "^3.4.1",
     "ngx-markdown": "^8.1.0",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.23.0",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
